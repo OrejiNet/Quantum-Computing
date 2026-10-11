@@ -1,0 +1,16 @@
+# Núcleo Qiskit
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit-algorithms
+
+# Cálculo y visualización
+numpy
+scipy
+sympy
+matplotlib
+pylatexenc
+
+# Entorno de notebooks
+jupyter
+ipykernel
